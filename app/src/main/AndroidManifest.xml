@@ -15,7 +15,7 @@
         android:theme="@style/Theme.BrunoBusinessCard"
         tools:targetApi="31">
         <activity
-            android:name=".AddCardActivity"
+            android:name=".ui.AddCardActivity"
             android:exported="false" />
         <activity
             android:name=".ui.MainActivity"
